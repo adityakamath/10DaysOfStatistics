@@ -1,5 +1,5 @@
 # 10DaysOfStatistics
-Solved problems from the HackerRank tutorial - 10 Days of Statistics
+Solved problems from the HackerRank tutorial - 10 Days of Statistics. https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
 
 Day 0: Median, Median Mode | Weighted Mean
 
